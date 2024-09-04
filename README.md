@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web and mobile apps.  <br>🌱 I’m learning Machine Learning and Web Development.  <br>👯 I’m looking to collaborate on interesting tech projects.  <br>💬 Ask me about web and app development.  <br>⚡ Fun fact: I started in ECE, but coding became my true passion!
+🔭 I’m currently working on web and mobile apps.  <br>🌱 I’m learning Machine Learning and Web Development.  <br>👯 I’m looking to collaborate on interesting tech projects.  <br>💬 Ask me about web and app development.  <br>⚡ Fun fact: I started in ECE, but coding became my true passion so am back to CSE!
 
 
 ## 🌐 Socials:
