@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on web and mobile apps.  <br>🌱 I’m learning Machine Learning and Web Development.  <br>👯 I’m looking to collaborate on interesting tech projects.  <br>💬 Ask me about web and app development.  <br>⚡ Fun fact: I started in ECE, but coding became my true passion so am back to CSE!
 
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mush_xxf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-musharraf11/) 
 
